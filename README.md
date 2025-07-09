@@ -98,10 +98,16 @@ I love building real-world solutions and collaborating with the tech community. 
 
 <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
-## 📫 Get in Touch
+## 📫 Contact Me
 
-<a href="https://www.linkedin.com/in/telarolidev" target="_blank" rel="noopener noreferrer" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align:middle;" />
-</a>  
-📧 dev.telaroli@gmail.com  
-🔗 [My GitHub](https://github.com/telarolii)  
+<p>
+  <a href="mailto:dev.telaroli@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/telarolidev/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@telarolidev" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
