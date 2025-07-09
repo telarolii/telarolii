@@ -2,7 +2,7 @@
 
 <!-- Cabeçalhos -->
 
-![Logo do Perfil] (https://i.postimg.cc/1Xfj0pYq/Chat-GPT-Image-9-de-jul-de-2025-11-43-17.png)
+![Logo do Perfil](https://i.postimg.cc/1Xfj0pYq/Chat-GPT-Image-9-de-jul-de-2025-11-43-17.png)
 
 <!--
 **dev-telaroli/dev-telaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
