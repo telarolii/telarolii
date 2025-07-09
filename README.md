@@ -1,4 +1,3 @@
-
 <!-- Optional animated banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="Coding">
@@ -7,10 +6,10 @@
 <h2 align="center">FullStack Developer • Tech Enthusiast • Lifelong Learner</h2>
 
 📍 RJ, Brazil  
-🎓 Software Developer | Technical Degree in Information Technology
+🎓 Software Developer | Technical Degree in Information Technology  
 📚 Passionate about teaching, learning, and sharing knowledge  
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ## 👋 About Me
 
@@ -19,15 +18,15 @@ I'm currently deepening my skills in **Softawre Architecture** **API development
 
 I love building real-world solutions and collaborating with the tech community. I'm always aiming to deliver clean code, best practices, and great user experiences.
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ## 🧠 Current Goal
 
 📈 Become a **Software Architect**, combining technical expertise and product vision to lead impactful projects.
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
- 🚀 Tech Stack
+🚀 Tech Stack
 
 ### 🧩 Front-End
 
@@ -39,7 +38,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </p>
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ### ⚙️ Back-End
 
@@ -49,7 +48,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
 </p>
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ### 🗃️ Databases
 
@@ -58,7 +57,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </p>
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ### 🧰 Tools & Other
 
@@ -67,8 +66,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="30" />
-</p>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="30" />
 </p>
 
 ## 🌍 Additional Skills
@@ -81,7 +79,7 @@ I love building real-world solutions and collaborating with the tech community. 
 - Illustration & Graphic Design  
 - Artificial Intelligence (Foundations)
 
----
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ## 📌 Featured Repositories
 
@@ -101,11 +99,6 @@ I love building real-world solutions and collaborating with the tech community. 
 📧 dev.telaroli@gmail.com  
 🔗 [My GitHub](https://github.com/telarolii)  
 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" />
