@@ -27,13 +27,13 @@ I love building real-world solutions and collaborating with the tech community. 
 
 <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
-## 🧠 Current Goal
+## • Current Goal
 
 📈 Become a **Software Architect**, combining technical expertise and product vision to lead impactful projects.
 
 <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
-## 🚀 Tech Stack
+## • My Stack
 
 ### 🧩 Front-End
 
@@ -76,7 +76,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="30" />
 </p>
 
-## 🌍 Additional Skills
+## • Additional Skills
 
 - UX/UI Design  
 - Responsive Web Design  
@@ -90,15 +90,15 @@ I love building real-world solutions and collaborating with the tech community. 
 
 ## 📌 Featured Repositories
 
-### 🚀 [Loading...](https://github.com/telarolii/)
+### • [Loading...](https://github.com/telarolii/)
 > OOops, stay calm. Projects are being created.
 
-### ✍️ [Loading...](https://github.com/telarolii/)
+### • [Loading...](https://github.com/telarolii/)
 > Oops, stay calm. Projects are being created.
 
 <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
-## 📫 Contact Me
+## • Contact Me
 
 <p>
   <a href="mailto:dev.telaroli@gmail.com">
