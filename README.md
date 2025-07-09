@@ -3,7 +3,14 @@
   <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="1000" alt="Coding">
 </p>
 
-<h2 align="center">FullStack Developer • Tech Enthusiast • Lifelong Learner</h2>
+<h2 align="center">Frontend Developer • Tech Enthusiast • Lifelong Learner</h2>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" width="350" />
+</p>
+
 
 📍 RJ, Brazil  
 🎓 Software Developer | Technical Degree in Information Technology  
@@ -98,7 +105,3 @@ I love building real-world solutions and collaborating with the tech community. 
 </a>  
 📧 dev.telaroli@gmail.com  
 🔗 [My GitHub](https://github.com/telarolii)  
-
-<img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" />
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" />
