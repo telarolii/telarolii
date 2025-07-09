@@ -1,27 +1,21 @@
 
-
-
 <!-- Optional animated banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="Coding">
 </p>
 
-<h2 align="center">Frontend Developer • React.js • Node.js • JavaScript</h2>
+<h2 align="center">FullStack Developer • Tech Enthusiast • Lifelong Learner</h2>
 
-# 👨‍💻 Felipe Telaroli
-
-**FullStack Developer • Tech Enthusiast • Lifelong Learner**
-
-📍 Nova Campinas, Duque de Caxias – RJ, Brazil  
-🎓 Graduate in Web Development | Centro de Integração Objetivo  
+📍 RJ, Brazil  
+🎓 Software Developer | Technical Degree in Information Technology
 📚 Passionate about teaching, learning, and sharing knowledge  
 
 ---
 
 ## 👋 About Me
 
-Hi there! I'm **Felipe Telaroli**, a FullStack Developer focused on modern technologies and responsive web design.  
-I'm currently deepening my skills in **Software Architecture**, **Prompt Engineering**, and **Artificial Intelligence**.
+Hi there! I'm **Felipe Telaroli**, a Frontend Developer focused on modern technologies and responsive web design.  
+I'm currently deepening my skills in **Softawre Architecture** **API development** and **back-end performance & optimization**.
 
 I love building real-world solutions and collaborating with the tech community. I'm always aiming to deliver clean code, best practices, and great user experiences.
 
@@ -91,11 +85,11 @@ I love building real-world solutions and collaborating with the tech community. 
 
 ## 📌 Featured Repositories
 
-### 🚀 [Angular Playground](https://github.com/dev-telaroli/angular-playground)
-> Hands-on examples of key Angular features and best practices.
+### 🚀 [Loading...](https://github.com/telarolii/)
+> OOops, stay calm. Projects are being created.
 
-### ✍️ [Angular Blog](https://github.com/dev-telaroli/angular-blog)
-> A simple blog built with Angular, focused on clean folder structure and good architecture.
+### ✍️ [Loading...](https://github.com/telarolii/)
+> Oops, stay calm. Projects are being created.
 
 ---
 
@@ -103,13 +97,13 @@ I love building real-world solutions and collaborating with the tech community. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telarolidev)  
 📧 dev.telaroli@gmail.com  
-🔗 [My GitHub](https://github.com/dev-telaroli)  
+🔗 [My GitHub](https://github.com/telarolii)  
 📱 WhatsApp: +55 (21) 99352-9941  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-telaroli&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-telaroli&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" />
 </p>
