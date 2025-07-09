@@ -66,7 +66,7 @@ I love building real-world solutions and collaborating with the tech community. 
 
 ---
 
-### 🧰 Tools & Other
+### 🧰 Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
@@ -75,6 +75,8 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="30" />
 </p>
+
+<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
 ## • Additional Skills
 
