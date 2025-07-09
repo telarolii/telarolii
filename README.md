@@ -3,7 +3,7 @@
 <!-- Cabeçalhos -->
 
 <<<<<<< HEAD
-![Logo do Perfil](https://i.pinimg.com/originals/bb/e2/47/bbe2470d1ef6a44772f2015202fbb0ef.gif)
+![Logo do Perfil](https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif)
 
 
 <!--
