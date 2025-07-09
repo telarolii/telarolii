@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" width="350" />
+  <img src="![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=dark)" width="350" />
 </p>
 
 
