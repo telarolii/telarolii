@@ -72,7 +72,8 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-  <img src="https://img.icons8.com/ios-filled/30/4000BF/insomnia.png" alt="Insomnia" />
+   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="30" />
+</p>
 </p>
 
 ## 🌍 Additional Skills
