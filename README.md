@@ -1,4 +1,8 @@
-<center><h2>Hello World</h2></center>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" alt="Logo do Perfil" />
+</p>
+
+<h2 align="center">Hello World</h2>
 
 <!-- Cabeçalhos -->
 ![Logo do Perfil](https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif)
