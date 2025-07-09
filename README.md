@@ -25,7 +25,7 @@ I'm currently deepening my skills in **Softawre Architecture** **API development
 
 I love building real-world solutions and collaborating with the tech community. I'm always aiming to deliver clean code, best practices, and great user experiences.
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
+
 
 ## • Current Goal
 
@@ -45,7 +45,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </p>
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
+***
 
 ### ⚙️ Back-End
 
@@ -55,7 +55,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
 </p>
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
+---
 
 ### 🗃️ Databases
 
@@ -64,7 +64,7 @@ I love building real-world solutions and collaborating with the tech community. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
 </p>
 
-<img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
+---
 
 ### 🧰 Tools & Other
 
