@@ -33,7 +33,7 @@ I love building real-world solutions and collaborating with the tech community. 
 
 <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true" alt="linha azul" />
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### 🧩 Front-End
 
