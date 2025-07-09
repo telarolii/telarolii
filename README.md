@@ -1,8 +1,6 @@
-## Hi there 👋
+<center><h2>Hello World</h2></center>
 
 <!-- Cabeçalhos -->
-
-<<<<<<< HEAD
 ![Logo do Perfil](https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif)
 
 
