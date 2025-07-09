@@ -52,6 +52,7 @@ I love building real-world solutions and collaborating with the tech community. 
 <p align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" style="background:white; padding:2px; border-radius:4px" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
 </p>
 
 ---
