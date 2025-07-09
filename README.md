@@ -91,7 +91,6 @@ I love building real-world solutions and collaborating with the tech community. 
 ### ✍️ [Loading...](https://github.com/telarolii/)
 > Oops, stay calm. Projects are being created.
 
-<img src="https://via.placeholder.com/800x3/007bff/007bff" alt="linha azul" />
 
 ## 📫 Get in Touch
 
@@ -101,11 +100,11 @@ I love building real-world solutions and collaborating with the tech community. 
 📧 dev.telaroli@gmail.com  
 🔗 [My GitHub](https://github.com/telarolii)  
 
-
+https://github.com/felipeAguiarCode/felipeAguiarCode/blob/master/.github/assets/lineBar.png?raw=true
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=telarolii&show_icons=true&theme=radical" />
-  <br />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=telarolii&theme=radical" />
 </p>
