@@ -2,12 +2,7 @@
 
 <!-- Cabeçalhos -->
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+![Logo do Perfil] (https://chatgpt.com/s/m_686e80b386948191ba8f9becd260fedc)
 
 <!--
 **dev-telaroli/dev-telaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
