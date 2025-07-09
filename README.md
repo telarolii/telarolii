@@ -1,6 +1,6 @@
 <!-- Optional animated banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="500" alt="Coding">
+  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="1000" alt="Coding">
 </p>
 
 <h2 align="center">FullStack Developer • Tech Enthusiast • Lifelong Learner</h2>
