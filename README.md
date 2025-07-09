@@ -91,14 +91,16 @@ I love building real-world solutions and collaborating with the tech community. 
 ### ✍️ [Loading...](https://github.com/telarolii/)
 > Oops, stay calm. Projects are being created.
 
----
+<img src="https://via.placeholder.com/800x3/007bff/007bff" alt="linha azul" />
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telarolidev)  
+<a href="https://www.linkedin.com/in/telarolidev" target="_blank" rel="noopener noreferrer" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align:middle;" />
+</a>  
 📧 dev.telaroli@gmail.com  
 🔗 [My GitHub](https://github.com/telarolii)  
-📱 WhatsApp: +55 (21) 99352-9941  
+
 
 ---
 
