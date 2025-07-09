@@ -33,30 +33,47 @@ I love building real-world solutions and collaborating with the tech community. 
 
 ---
 
-## 🛠️ My Tech Stack
+ 🚀 Tech Stack
 
-**Front-end**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-- ![React Hooks](https://img.shields.io/badge/Hooks-61DAFB?logo=react&logoColor=white)
+### 🧩 Front-End
 
-**Back-end**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-**Tools & Practices**
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+</p>
 
 ---
+
+### ⚙️ Back-End
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+</p>
+
+---
+
+### 🗃️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+</p>
+
+---
+
+### 🧰 Tools & Other
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://img.icons8.com/fluency/30/000000/insomnia.png" alt="Insomnia" />
+</p>
 
 ## 🌍 Additional Skills
 
